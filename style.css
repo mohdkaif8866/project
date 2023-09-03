@@ -1,0 +1,32 @@
+span {
+    background-color: blue;
+    font-size: 30px;
+    color: #fff;
+    padding: 10px;
+    margin: 0px;
+}
+
+.para {
+    height: 50px;
+    padding: 40px;
+}
+
+.first-letter-uppercase::first-letter {
+        font-size: 40px;
+        font-weight: bold;
+        line-height: .75;
+}
+.project {
+
+    border-bottom: 1px solid black;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+}
+.project-2 {
+    background-color: greenyellow;
+    border-bottom: 1px solid black;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    padding: 20px;
+    margin: 50px;
+}
