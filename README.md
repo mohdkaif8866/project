@@ -31,6 +31,11 @@ Washingmachine
 - [YouTube](https://www.youtube.com/)
 
 
+![image](https://github.com/mohdkaif8866/project/assets/143953150/50096cfd-f050-4b21-9ddc-d0f22a71ef39)
+
+![image](https://github.com/mohdkaif8866/project/assets/143953150/97e1f3cc-e2ee-41fa-af29-055a59302678)
+
+
 
 
 
