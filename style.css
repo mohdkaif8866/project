@@ -1,205 +1,110 @@
-body{
-    background-color: rgb(45, 221, 45);
+.nike{
+    border: solid rgb(241, 235, 235);
+border-bottom: none;
+    height:285px;
+    width: 300px;
+    margin-left: 320px;
+ margin-bottom: 50px;
+  
 }
+
+
+
+
 .puma{
-    border: 2px solid rgb(221, 11, 11);
-    border: none;
-    height: 1000px;
-
-
-}
-p.solid{
-  
-    border: 2px solid red ;
-    font-style: italic;
-    color: red;
-    text-align:center;
-    width: 620px;
-    height: 25px;
-    background-color: aliceblue;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 30px;
-    padding: 25px;
-  
- 
-}
-.look{
-  float: right;
-  padding-right: 20px;
-  margin: -15px;
- margin-right: -168px;
-
-
-}
- 
-
-
-
-
-.ex2{
-
-    font-size: 20px;
-    
-  font-style: oblique;
-    color: red;
-    border: 2px solid red;
-    height: 170px;
-    width: 650px;
-    margin: -900px;
-  padding-right: 10px;
-    margin-bottom: 20px;
-    padding-left:10px;
-  
-    background-color: aliceblue;
-    margin-left: -1px;
- 
-}
-.demo{
-    background-color: blue;
-   height: 20px;
-   width: 500px;
-font-size: 20px;
-color: #fff;
-padding:3px;
-padding-left: -20px;
-margin: 0px;
-
-}
-.demo1{
-    color: black;
-    margin-top: 5px;
-}
-  .demo2{
-    
-    color: black;
-  margin-top: 1px;
-}
-.mini{
-  float: right;
-  padding-right: 20px;
-  margin: -10px;
+    border: solid rgb(241, 235, 235);
+border-bottom: none;
+    height:285px;
+    width: 300px;
+    margin-top: -340px;
   
 }
 
-
-
-.ex3{
-border: 2px solid red;
-height: 170px;
-width: 650px;
-    background-color: aliceblue;
-    padding-left:20px;
-    color:red;
-    font-style: oblique;
-    font-size: 20px;
-    padding-top: 5px;
-}
-.ex4{
+.box{
    
-    color: #2902a6;
-    margin: -1px;
-}  
-.ex5{
-    color: black;
-    margin-top: 5px;
-}
-.ex6{
-    color:black;
-    margin-top: 1px;
-}
-.mini1{
-  float: right;
-  padding-right: 20px;
-  margin: -10px;
-  
-  
-}
-  .text{
-    border: 2px solid red;
-    height: 170px;
-    width: 650px;
-    background-color: aliceblue;
-    padding-left: 20px;
-    color:red;
-    font-style: oblique;
+   border: solid rgb(241, 235, 235);
+   border-bottom: none;
+    height: 30px;
+    width: 300px;
+    text-align: center;
     font-size: 20px;
-  margin: 10px;
-  margin-left: 1px;
-
-  }  
-  .text1{
-    color: blue;
+    background-color: black ;
+    color: aliceblue;
+    padding-top: 15px;
+    
+}
+.box1{
+    background-color: rgb(241, 235, 235);
+    border: solid rgb(241, 235, 235);
+    padding: 10px;
     margin: -1px;
-    margin-left: 1px;
-  }
-  .text2{
-    color: black;
-    margin-top: 5px;
-    margin-left: 1px;
-  }
-  .text3{
-    color:black;
-    margin-top: 2px;
-    margin-left: 1px;
-  }
-  .mini2{
-    float: right;
-    padding-right: 20px;
-  margin: -5px;
+text-align: center;
+}
+.box2{
+    text-align: center;
+}
+.box3{
+    text-align: center;
+}
+.box4{
+    text-align: center;
+}
+.box5{
+    text-align: center;
+}
+.box7{
+    background-color: #22df22;
+border: 1px solid;
+width: 70px;
+text-align: center;
+color: white;
+margin: 115px;
+margin-top: -45px;
 
-  }
-.text4{
-    border: 2px solid red;
-    height: 170px;
-    width: 650px;
-    background-color: aliceblue;
- 
-    color:red;
-    font-style: oblique;
-    font-size: 20px;
-    padding-left:20px;
 }
+.box6{
+    background-color: rgb(241, 235, 235);
+    border: solid rgb(241, 235, 235);
+    padding-bottom: 38px;
+}
+.box9{ border: solid rgb(241, 235, 235);
+    border-bottom: none;
+     height: 30px;
+     width: 300px;
+     text-align: center;
+     font-size: 20px;
+     color: aliceblue;
+     padding-top: 15px;
+    background-color: #22df22;
+}
+.nikee1{
+    border: solid rgb(241, 235, 235);
+    border-bottom: none;
+        height:285px;
+        width: 300px;
+        margin-left: 640px;
+  margin-bottom: -290px;
+}
+.box15{
+    border: solid rgb(241, 235, 235);
+    border-bottom: none;
+     height: 30px;
+     width: 300px;
+     text-align: center;
+     font-size: 20px;
+     color: aliceblue;
+     padding-top: 15px;
+    background-color: #22df22;
 
-.text5{
-    color: blue;
-    margin: -1px;
-    margin-left: 1px;
 }
+.box11{
+    background-color: #22df22;
+border: 1px solid;
+width: 70px;
+text-align: center;
+color: white;
+margin: 115px;
+margin-top: -45px;
 
-.text6{
-    color: black;
-    margin-top: 5px;
-    margin-left: 1px;
-}
-.mini3{
-  float: right;
-    padding-right: 20px;
-  margin: -10px;
-}
-.text7{
-    border: 2px solid red;
-    height: 170px;
-    width: 650px;
-    background-color: aliceblue;
-    margin: 10px;
-    color:red;
-    font-style: oblique;
-    font-size: 20px;
- margin-left: 1px;
- padding-left:20px;
-}
-.text8{
-    color: blue;
-    margin: -1px;
-    margin-left: 1px;
-}
-.text9{
-    color: black;
-    margin-top: 5px;
-    margin-left: 1px;
-}
-.text10{
-    color: black;
-    margin-top: 5px;
-    margin-left: 1px;
+
 }
